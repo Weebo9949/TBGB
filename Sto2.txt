@@ -1,0 +1,1 @@
+{'storage 2 - Google Search - Google Chrome': ['https://www.google.com/search?q=storage+2&oq=storage+2&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPNIBCDI2MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8']}
